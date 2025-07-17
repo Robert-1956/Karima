@@ -7,7 +7,7 @@ git init
 git remote add origin ssh_repo
 ```
 
-##Rediger un commit
+## Rediger un commit
 
 ```
 Titre du commit

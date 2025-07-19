@@ -20,3 +20,5 @@ Description du commit avec des informations sur l'évolution du projet
 ```bash
 git checkout -b "Nom_Branche"
 ```
+
+pour les bonnes partiques, on va integrer la notion de revue code
